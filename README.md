@@ -10,3 +10,10 @@ In this demonstration I used terraform to launch two EC2 Instances and an Applic
 The source code web.xml must keep <distriburable/> as show in the screenshot below.
 ```
 ![image](https://github.com/user-attachments/assets/d0ecbfd6-f1fd-426b-9e65-be19bc5fc4e4)
+
+Here I have used session replication in EC2 Instances with StaticMembership rather than Multicast. The Jenkinsfile which I have used for CI/CD deployment is availabe with this Repository. 
+
+Create the database jwt and table USER in MySQL as shown in the screenshot below before running the Jenkins Job.
+![image](https://github.com/user-attachments/assets/4befe8b8-4ca8-4d2f-88ec-9a6efa8be6f6)
+![image](https://github.com/user-attachments/assets/c54917fe-cc65-40fc-95e7-acb1956e7015)
+![image](https://github.com/user-attachments/assets/f7a1ed0d-be24-4d98-8090-aaa294c97130)
