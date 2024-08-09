@@ -42,6 +42,9 @@ Now open the Tomcat Manager as shown in the screenshot below and be asured about
 ![image](https://github.com/user-attachments/assets/f24b064e-405c-4dd6-8671-a73cc133f6d2)
 ![image](https://github.com/user-attachments/assets/4785f08d-7fae-48a1-91be-6f5d687e190c)
 ![image](https://github.com/user-attachments/assets/d360cf42-934a-4bb1-b462-fea824e106f9)
+
+Here stickiness is enabled.
+
 <br><br/>
 <br><br/>
 <br><br/>
