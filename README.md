@@ -24,7 +24,7 @@ After running the Jenkins Job the screenshot for SonarQube, Nexus Artifactory an
 ![image](https://github.com/user-attachments/assets/73fcefab-dbfa-4d97-bef7-f86fe84ee224)
 ![image](https://github.com/user-attachments/assets/2c428b00-73b4-43cb-8338-e3fa4b23ef79)
 
-To run the Jenkins Job successfully webhook had been created in SonarQube and modified the /etc/resolv.conf file on SonarQube and on Jenkins Slave Node as shown in the screenshot below(You can also achieve this by creating a new DHCP option set, I had already discussed regarding this in earlier project You can refer https://github.com/singhritesh85/DevOps-Project-2tier-WebApp-Deployment/blob/main/Complications-which-you-may-face/complications.md).
+To run the Jenkins Job successfully webhook had been created in SonarQube and modified the /etc/resolv.conf file on SonarQube and on Jenkins Slave Node as shown in the screenshot below(You can also achieve this by creating a new DHCP option set, I had already discussed regarding this in earlier project You can refer https://github.com/kamalmohan217/DevOps-Project-2tier-WebApp-Deployment/blob/main/Complications-which-you-may-face/complications.md ).
 ![image](https://github.com/user-attachments/assets/1f290de4-8925-4cf7-8f9b-efba7f3e2495)
 ![image](https://github.com/user-attachments/assets/f0afde40-329b-42e9-9d25-c539a9fc0683)
 ![image](https://github.com/user-attachments/assets/b7f7dddb-c9ec-4f89-9c14-9741f6962215)
