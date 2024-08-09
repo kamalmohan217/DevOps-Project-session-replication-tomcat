@@ -21,6 +21,7 @@ Create the database jwt and table USER in MySQL as shown in the screenshot below
 After running the Jenkins Job the screenshot for SonarQube, Nexus Artifactory and entry inside the database jwt's USER table is as shown below.
 
 ![image](https://github.com/user-attachments/assets/d6a1e71d-c93a-4ced-aa28-f5432041cd2c)
+![image](https://github.com/user-attachments/assets/73fcefab-dbfa-4d97-bef7-f86fe84ee224)
 ![image](https://github.com/user-attachments/assets/2c428b00-73b4-43cb-8338-e3fa4b23ef79)
 
 To run the Jenkins Job successfully webhook had been created in SonarQube and modified the /etc/resolv.conf file on SonarQube and on Jenkins Slave Node as shown in the screenshot below.
