@@ -18,6 +18,10 @@ Create the database jwt and table USER in MySQL as shown in the screenshot below
 ![image](https://github.com/user-attachments/assets/c54917fe-cc65-40fc-95e7-acb1956e7015)
 ![image](https://github.com/user-attachments/assets/f7a1ed0d-be24-4d98-8090-aaa294c97130)
 
+Before running the Jenkins Job make sure the endpoint of MySQL is updated at the path tomcat-session-replication/src/main/webapp/userRegistration.jsp and Breadcrumbstomcat-session-replication/src/main/webapp/login.jsp in the source code as shown in the screenshot below.
+![image](https://github.com/user-attachments/assets/d6ae97fc-7390-4d58-92d2-b5e89d989c7d)
+![image](https://github.com/user-attachments/assets/fcff4357-b08b-4a5e-9efb-bb9833609a7a)
+
 After running the Jenkins Job the screenshot for SonarQube, Nexus Artifactory and entry inside the database jwt's USER table is as shown below.
 
 ![image](https://github.com/user-attachments/assets/d6a1e71d-c93a-4ced-aa28-f5432041cd2c)
